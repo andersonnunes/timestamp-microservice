@@ -1,0 +1,19 @@
+{
+	"name": "timestamp-microservice",
+	"dependencies": {
+		"dateformat": "^2.0.0",
+		"express": "^4.14.0",
+		"moment": "^2.18.1"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andersonnunes/timestamp-microservice.git"
+	}
+}
